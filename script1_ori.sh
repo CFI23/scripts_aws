@@ -1,1 +1,0 @@
-aws ec2 create-vpc --cidr-block 192.168.0.0/24 --query Vpc.VpcId --output text
